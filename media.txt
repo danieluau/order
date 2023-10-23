@@ -1,0 +1,71 @@
+Bubble Sort - Crescente
+
+1000 elementos: 0.046334 segundos
+5000 elementos: 1.494664 segundos
+10000 elementos: 4.801664 segundos
+20000 elementos: 16.794661 segundos
+30000 elementos: 49.761333 segundos
+
+Bubble Sort - Decrescente
+
+1000 elementos: 0.083664 segundos
+5000 elementos: 2.637999 segundos
+10000 elementos: 10.668332 segundos
+20000 elementos: 35.934665 segundos
+30000 elementos: 77.731666 segundos
+
+Bubble Sort - Aleatório
+
+1000 elementos: 0.077331 segundos
+5000 elementos: 2.129332 segundos
+10000 elementos: 8.276664 segundos
+20000 elementos: 31.256665 segundos
+30000 elementos: 74.413665 segundos
+
+Insertion Sort - Crescente
+
+1000 elementos: 0.000399 segundos
+5000 elementos: 0.000667 segundos
+10000 elementos: 0.001331 segundos
+20000 elementos: 0.004665 segundos
+30000 elementos: 0.007663 segundos
+
+Insertion Sort - Decrescente
+
+1000 elementos: 0.076995 segundos
+5000 elementos: 1.797332 segundos
+10000 elementos: 7.233332 segundos
+20000 elementos: 28.260999 segundos
+30000 elementos: 66.411332 segundos
+
+Insertion Sort - Aleatório
+
+1000 elementos: 0.043995 segundos
+5000 elementos: 0.924999 segundos
+10000 elementos: 3.488332 segundos
+20000 elementos: 15.380332 segundos
+30000 elementos: 32.751664 segundos
+
+Selection Sort - Crescente
+
+1000 elementos: 0.036331 segundos
+5000 elementos: 0.756999 segundos
+10000 elementos: 3.511661 segundos
+20000 elementos: 14.947332 segundos
+30000 elementos: 31.479664 segundos
+
+Selection Sort - Decrescente
+
+1000 elementos: 0.699334 segundos
+5000 elementos: 2.444999 segundos
+10000 elementos: 10.514661 segundos
+20000 elementos: 22.948665 segundos
+30000 elementos: 47.331662 segundos
+
+Selection Sort - Aleatório
+
+1000 elementos: 0.054994 segundos
+5000 elementos: 0.903331 segundos
+10000 elementos: 3.591333 segundos
+20000 elementos: 15.005332 segundos
+30000 elementos: 47.328332 segundos
