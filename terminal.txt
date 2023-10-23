@@ -1,4 +1,4 @@
-Primeira
+Primeira Execução
 
 bubble_sort - crescente - 1000 elementos: tempo = 0.050004 segundos
 bubble_sort - crescente - 5000 elementos: tempo = 1.256998 segundos
@@ -46,7 +46,7 @@ selection_sort - aleatorio - 20000 elementos: tempo = 13.859994 segundos
 selection_sort - aleatorio - 30000 elementos: tempo = 31.982998 segundos
 
 
-Segunda
+Segunda Execução
 
 bubble_sort - crescente - 1000 elementos: tempo = 0.040999 segundos
 bubble_sort - crescente - 5000 elementos: tempo = 1.958994 segundos
@@ -93,7 +93,7 @@ selection_sort - aleatorio - 10000 elementos: tempo = 3.445999 segundos
 selection_sort - aleatorio - 20000 elementos: tempo = 14.394996 segundos
 selection_sort - aleatorio - 30000 elementos: tempo = 58.683519 segundos
 
-Terceira
+Terceira Execução
 
 
 bubble_sort - crescente - 1000 elementos: tempo = 0.053003 segundos
